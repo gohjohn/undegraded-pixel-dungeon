@@ -1,3 +1,7 @@
+Undegraded Pixel Dungeon
+=============
+Very basic mod that removes degration from Pixel Dungeon v1.7.5a
+
 Pixel Dungeon
 =============
 
